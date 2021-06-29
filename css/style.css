@@ -1,0 +1,26 @@
+body {
+    margin: 23px;
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    color: #3C4043;
+}
+ol {
+    font-size: 15px;
+    color: #213645;
+    word-spacing: 4px;
+    line-height: 26px;
+}
+p {
+    color: #213645;
+    font-size: 15px;
+    line-height: 26px; 
+    word-spacing: 4px;
+}
+ul {
+    font-size: 15px;
+    line-height: 26px;
+    word-spacing: 4px;
+    color: #213645;
+}
+
